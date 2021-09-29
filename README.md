@@ -68,7 +68,9 @@ Specify the routes of token
 <br /><br />
 */src/Routes.js*<br />
 This Route.js will enable us to navigate between different pages of our application.
-<br /><br />
+<br /><br /><br />
+
+## Core of application
 */src/index.js*<br />
 First, we import our store from our redux folder and Provider from react-redux. We wrap the Provider around our application. The provider makes our redux store available to every component inside our application.
 <br /><br />
@@ -76,6 +78,7 @@ First, we import our store from our redux folder and Provider from react-redux. 
 In our App.js, as you can see, we import the Routes.js and also wrap the whole application inside the BrowserRouter imported from ‘react-router-dom’. This enables routing on our application using url segments. This makes our single page application feel more like a traditional webpage.
 <br /><br /><br />
 
+## Parts of page and Pages
 */src/components/layouts/*<br />
 In this folder we can specify the general layout parts for example the header or footer of application 
 <br /><br />
