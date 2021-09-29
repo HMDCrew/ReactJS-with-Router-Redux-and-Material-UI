@@ -16,7 +16,7 @@
     npm i –save-dev redux react-redux redux-devtool redux-devtools redux-thunk
 
 ## Directory Structure
-![alt text](https://github.com/HMDCrew/FrontEnd/blob/main/GitImages/three.png?raw=true)
+![alt text](https://github.com/HMDCrew/ReactJS-with-Router-Redux-and-Material-UI/blob/main/GitImages/three.png?raw=true)
 
 ## Services
 */src/services/HttpService.js*<br />
